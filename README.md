@@ -26,6 +26,9 @@ Aqui estão algumas das bibliotecas e frameworks que uso no meu trabalho diário
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jacquesdouglasdev&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesdouglasdev&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jacquesdouglasdev&theme=dracula&rank=C,B,A,AA,AAA,S,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 🌐 Entre em contato:
 
 - 📧 Email: [jacquesdouglasdev@gmail.com](mailto:jacquesdouglasdev@gmail.com)
