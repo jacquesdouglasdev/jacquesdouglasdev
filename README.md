@@ -21,7 +21,7 @@ Aqui estão algumas das bibliotecas e frameworks que uso no meu trabalho diário
 
 ### 📈 Estatísticas do GitHub:
 
-[![Estatísticas do GitHub de Jacques](https://github-readme-stats.vercel.app/api?username=jacquesdouglasdev&hide=prs,issues,contribs)]
+[![Estatísticas do GitHub de Jacques](https://github-readme-stats.vercel.app/api?username=jacquesdouglasdev&hide=issues,contribs,prs)]
 
 ### 🌐 Entre em contato:
 
