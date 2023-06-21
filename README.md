@@ -21,7 +21,8 @@ Aqui estão algumas das bibliotecas e frameworks que uso no meu trabalho diário
 
 ### 📈 Estatísticas do GitHub:
 
-[![Estatísticas do GitHub de Jacques](https://github-readme-stats.vercel.app/api?username=jacquesdouglasdev&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jacquesdouglasdev&theme=darcula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesdouglasdev&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Entre em contato:
