@@ -27,7 +27,7 @@ Aqui estão algumas das bibliotecas e frameworks que uso no meu trabalho diário
 
 - 📧 Email: [jacquesdouglasdev@gmail.com](mailto:jacquesdouglasdev@gmail.com)
 - 💼 LinkedIn: [jacquesdouglas](https://www.linkedin.com/in/jacques-silva/)
-- 📁 [Portfolio](https://jacquesdouglasdev.github.io/sobre-mim/)
+- 📁 Site: [Portfolio](https://jacquesdouglasdev.github.io/sobre-mim/)
 
 Vamos construir algo incrível juntos! 💪🚀
 
